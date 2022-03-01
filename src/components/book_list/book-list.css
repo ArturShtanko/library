@@ -1,0 +1,9 @@
+
+.wrapper-book-list{
+    margin: 25px 50px;
+
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}

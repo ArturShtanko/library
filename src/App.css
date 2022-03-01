@@ -1,0 +1,19 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+body{
+  background-color: beige;
+}
+
+.wrapper-app{
+  margin: 0 auto;
+  width: 1250px;
+  height: auto;
+  border: 2px solid rgb(225, 225, 200);
+  background-color: rgb(235, 235, 210);
+}
